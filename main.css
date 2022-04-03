@@ -88,14 +88,6 @@ h1, h2, h3, h4 {
 	border-radius: 50%;
 }
 
-.frame-media__video {
-	position: relative;
-	width: calc(var(--index) * var(--side-small));
-	height: calc(var(--index) * var(--side-big));
-	background-position: center;
-	background-size: cover;
-}
-
 .frame-media__dop {
 	position: relative;
 	width: calc(var(--index) * var(--side-small__dop));
